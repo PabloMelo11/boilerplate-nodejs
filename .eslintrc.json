@@ -25,6 +25,7 @@
               "newlinesBetween": "always",
               "groups": [
                   "/^node/",
+                  "module",
                   "/^@/infra/",
                   "/^@/shared/",
                   "/^@/application/",
