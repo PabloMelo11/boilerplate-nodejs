@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsup src --out-dir build",
+    "build": "tsup",
     "eslint:fix": "eslint --fix",
     "prepare:husky": "husky install",
     "lint-staged": "lint-staged",
